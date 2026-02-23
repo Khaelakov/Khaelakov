@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600">
+</p>
 
-<!--
-**Khaelakov/Khaelakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">★彡 Ben's Cyber Terminal 彡★</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+<code>Booting profile.exe...</code><br>
+<code>Status: ONLINE 🟢</code>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🕹️ USER INFO
+
+```bash
+> whoami
+Ben
+
+> role
+AI Explorer | Pixel Engineer | Tech Tinkerer
+
+> location
+Indonesia
