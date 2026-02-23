@@ -1,24 +1,27 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="500">
 </p>
 
-<h1 align="center">★彡 Ben's Cyber Terminal 彡★</h1>
+<h1 align="center">✦ 𝙱𝙴𝙽'𝚂 𝙿𝙸𝚇𝙴𝙻 𝙲𝚈𝙱𝙴𝚁 𝚆𝙾𝚁𝙻𝙳 ✦</h1>
 
 <p align="center">
-<code>Booting profile.exe...</code><br>
-<code>Status: ONLINE 🟢</code>
+<code>Initializing 90s Anime Interface...</code><br>
+<code>Status: CONNECTED 🟢</code>
 </p>
 
 ---
 
-## 🕹️ USER INFO
+## 🎴 USER_PROFILE.sys
 
 ```bash
 > whoami
 Ben
 
-> role
-AI Explorer | Pixel Engineer | Tech Tinkerer
+> class
+AI Explorer
 
-> location
-Indonesia
+> power
+Machine Learning & NLP
+
+> aura
+90s Cyber Anime
